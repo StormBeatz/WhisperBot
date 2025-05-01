@@ -1,1 +1,1 @@
-python3 -m Whisper.py
+python3 -m whisper.py
